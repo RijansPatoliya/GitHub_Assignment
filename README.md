@@ -52,6 +52,13 @@ To get started with this API, follow these simple steps:
    https://documenter.getpostman.com/view/39216965/2sAYQUqZyt
 ```
 
+## **Additional Resources:**
+   For more detailed information about the code and functions, refer to the API PDF which includes an overview of all functions and their usage:
+   ```bash
+   https://drive.google.com/file/d/188PyX3TqRSA06Yyonbci-_xMADoU7Xrb/view?usp=drive_link 
+```
+
+
 ## **Code Explanation:**
 
 Every part of this API has been built with clarity and efficiency in mind. The functions are organized into modular collections, each corresponding to a specific aspect of GitHub-like operations. Here's how you can use them:
